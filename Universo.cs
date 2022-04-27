@@ -7,6 +7,7 @@ namespace N1POO2
 class Universo : Corpo {
 
     StreamWriter escritor = new StreamWriter("resultados.txt");
+    //declaração de variaveis no construtor Universo
     public Universo(){
         QntCorpos = 0;
         QntIteracoes = 0;
@@ -35,6 +36,7 @@ class Universo : Corpo {
         ContadorIteracao = 0;
     }
 
+    //funções das formulas para facilitar o processo
     private double distancia(double posX1, double posY1, double posX2, double posY2 ){
         double x = posX2 - posX1;
         double y = posY2 - posY1;
@@ -72,7 +74,7 @@ class Universo : Corpo {
 
 
 
-
+    //aqui calculo fx e fy de cada força resultante e salvo em arrays para usar depois.
     private void obterDados(){
         int count = 0;
         
@@ -125,9 +127,8 @@ class Universo : Corpo {
         
     
     }
-
+    //aqui obtenho os valores necessarios (nova posição x e y e nova velocidade x e y)
     private void calcularDistancia(){
-        //StreamWriter escritor = new StreamWriter("resultados.txt");
         escritor.WriteLine("ITERAÇÃO {0} ----------------------------", contadorIteracao);
         int count1 = 0;
         int count2 = 0;

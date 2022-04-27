@@ -294,7 +294,7 @@ class Corpo{
 
     
     public void lerArquivo(){
-
+        //Nessa parte eu uso uma logica de leitura linha por linha para obter as informações dos arquivos. O comando Split divide a linha em strings e facilita a leitura.
         const string filePath = "C:\\Bares.txt";
         var data = File.ReadAllLines(filePath);
         string linhaa = data[0];
