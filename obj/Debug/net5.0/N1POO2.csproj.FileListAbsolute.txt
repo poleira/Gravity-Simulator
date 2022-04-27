@@ -1,0 +1,32 @@
+F:\N1POO2\bin\Debug\net5.0\N1POO2.exe
+F:\N1POO2\bin\Debug\net5.0\N1POO2.deps.json
+F:\N1POO2\bin\Debug\net5.0\N1POO2.runtimeconfig.json
+F:\N1POO2\bin\Debug\net5.0\N1POO2.runtimeconfig.dev.json
+F:\N1POO2\bin\Debug\net5.0\N1POO2.dll
+F:\N1POO2\bin\Debug\net5.0\ref\N1POO2.dll
+F:\N1POO2\bin\Debug\net5.0\N1POO2.pdb
+F:\N1POO2\obj\Debug\net5.0\N1POO2.csproj.AssemblyReference.cache
+F:\N1POO2\obj\Debug\net5.0\N1POO2.GeneratedMSBuildEditorConfig.editorconfig
+F:\N1POO2\obj\Debug\net5.0\N1POO2.AssemblyInfoInputs.cache
+F:\N1POO2\obj\Debug\net5.0\N1POO2.AssemblyInfo.cs
+F:\N1POO2\obj\Debug\net5.0\N1POO2.csproj.CoreCompileInputs.cache
+F:\N1POO2\obj\Debug\net5.0\N1POO2.dll
+F:\N1POO2\obj\Debug\net5.0\ref\N1POO2.dll
+F:\N1POO2\obj\Debug\net5.0\N1POO2.pdb
+F:\N1POO2\obj\Debug\net5.0\N1POO2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\N1POO2.exe
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\N1POO2.deps.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\N1POO2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\N1POO2.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\N1POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\ref\N1POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\bin\Debug\net5.0\N1POO2.pdb
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\ref\N1POO2.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.pdb
+C:\Users\ASUS\OneDrive\Área de Trabalho\coding\codigos\Algoritimos-estrutura-de-dados2\N1POO2\obj\Debug\net5.0\N1POO2.genruntimeconfig.cache
